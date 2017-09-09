@@ -13,7 +13,6 @@
  * <p>See Wikipedia's  
  * <a href="https://en.wikipedia.org/wiki/Kaprekar_number">Kaprekar Number</a>
  * article for more information.</p>
- * 
  * @param n
  * @return <code>true</code> if <code>n</code> is a Kaprekar Number, 
  * <code>false</code> otherwise.
