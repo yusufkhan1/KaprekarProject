@@ -17,6 +17,5 @@ int main(int argc, char **argv) {
   } else {
     printf("%d is not a Kaprekar Number!\n", n);
   }
-
   return 0;
 }
